@@ -53,10 +53,9 @@ color: #d42805;
         line-height: 0rem;
     }
   } */
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     .header__info {
-        margin-top: 13px;
-  
+        margin-top: 25px;
     }
   }
   @media (max-width: 400px) {
