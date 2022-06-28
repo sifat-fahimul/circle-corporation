@@ -1361,6 +1361,7 @@ body {
 
 @media (min-width: 768px) {
   .header__info {
+    margin-top: 15px;
     font-size: 3.1rem;
     text-align: right;
     padding-right: 15rem;

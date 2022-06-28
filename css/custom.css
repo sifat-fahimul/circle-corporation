@@ -12,7 +12,7 @@ color: #d42805;
      margin-top: 5px;
     }
   }
-@media (min-width: 2190px) {
+@media (min-width: 1450px) {
     .welcome {
      text-align: end;
      margin-right: 20%;
